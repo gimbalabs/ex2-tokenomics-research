@@ -40,6 +40,10 @@ Like we've already done (informally) with Experiment #1, we can allocate funds t
 ### 4: Contracted by Outside Firm
 When Gimbalabs gets hired to deliver on work for another firm, more gimbals will be created. Project budgets can be siloed, and once projects are launched, budgets will operate similarly to Scenario #3.
 
+## Thought Experiments
+### 1: Individual Investor
+As a gimbal holder, I would like to invest in projects/ideas I see up for incubation. I do not have a skillset or time that allows for me to participate, but I would still like to benefit from the success of the project/idea. 
+
 ## Action Items
 - Present this plan to Gimbalabs community with a call for questions/input/refinements
 - Team conversation: What are the correct values for each parameter? How can we best distinguish between revenue and shared profits?
