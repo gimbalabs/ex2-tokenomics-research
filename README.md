@@ -22,7 +22,7 @@ Any holder of gimbals can exchange their gimbals for ADA any time, and there's g
 
 One simple answer is that gimbals will have value because they ease the friction of paying others for tasks that need doing. Community members will be able to get quick help when needed from within the community, and we may eventually find ways to tie gimbal ownership to roles within the community (although this will be a work in progress for now).
 
-There is also a financial incentive to holding gimbals. The Gimbalabs treasury will generate income, and that profits will be distributed proportionally, at regularly defined intervals, among gimbal holders. One exmaple of treasury income is in the form of staking rewards, babel fees, and any other revenue from the Gimbal Stake Pool. In addition, part of the revenue generated when outside orgs pay for work (see above) will be designated as shared income for gimbal holders.
+There is also a financial incentive to holding gimbals. The Gimbalabs treasury will generate income, and those profits will be distributed proportionally, at regularly defined intervals, among gimbal holders. One example of treasury income is in the form of staking rewards, babel fees, and any other revenue from the Gimbal Stake Pool. In addition, part of the revenue generated when outside orgs pay for work (see above) will be designated as shared income for gimbal holders.
 
 ## Scenarios
 ### 1: Gimbalabs needs some work done
