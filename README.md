@@ -28,6 +28,9 @@ There is also a financial incentive to holding gimbals. The Gimbalabs treasury w
 ### 1: Gimbalabs needs some work done
 Immediately, we can use the Gimbalabs treasury to compensate contributors to tasks within the Gimbalabs community. Experiment #1 can serve as an initial example of this. We can pay developers who contribute to the playground, or even post tasks for hire to a place like http://gimbalabs.com/projects
 
+#### Bridge from Education
+As we onboard and train devs, we can pay for tasks that allow people to put their newly aquired skills to work.
+
 ### 2: A member of the Gimbalabs community needs some support
 Community members can add their own ADA to the treasury in exchange for gimbals, or use gimbals they've earned for prior work. Once they hold gimbals, they can offer to other community members who can support on tasks and projects. Anyone will be free to exchange gimbals with each other any time.
 
@@ -44,3 +47,6 @@ When Gimbalabs gets hired to deliver on work for another firm, more gimbals will
 - Create a Gimbal stake pool. Use a proportion of the Gimbalabs treasury as pledge. Delegate the rest of the treasury.
 - Outline initial examples of gimbal use within GL Initiatives and GL Playground
 - When possible, set up favorable Babel fees for transacting with gimbals. Create CSK/CoC resources showing how to set up Babel.
+
+## Research Agenda
+- Do people cash out right away, or hold gimbals? If they hold, why are they holding?
