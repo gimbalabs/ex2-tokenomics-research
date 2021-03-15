@@ -1,5 +1,9 @@
 # Proposal for "gimbal" token
 
+## Questions for Community
+- is this designed in a way that is extensible?
+
+
 ## Principles
 - the value of a gimbal is in the participation & contribution it helps to facilitate
 - no ICO / protect the value of a gimbal from speculation
