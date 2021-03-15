@@ -2,6 +2,7 @@
 
 ## Questions for Community
 - is this designed in a way that is extensible?
+- we're going to need some TOS...
 
 
 ## Principles
